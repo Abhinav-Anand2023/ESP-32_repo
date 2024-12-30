@@ -1,5 +1,3 @@
-#include "arduino_secrets.h"
-
 /*
 Checking the blinking of led
 */
